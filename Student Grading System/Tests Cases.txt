@@ -1,0 +1,172 @@
+PROJECT CASES DETAILS:-
+
+1	//Add
+6	//6 students
+Mohamed Hesham Said
+1423
+Ahmed Essam Ahmed
+1423
+Wada Hesham Hosny
+1356
+Ibrahim Emad Ashraf
+1430
+Mina Adel John
+1154
+Omar Ahmed Kamel
+1500
+5	//Get all
+1	//Add
+1	//1 student
+Mohamed Samy Mahmoud
+819
+2	//Modify student
+Omar Ahmed Kamel
+2	//Modify grade
+1423
+2	//Modify student
+Wada Hesham Hosny
+1	//Modify name
+Nada Hesham Hosny
+5	//Get all
+3	//Reset to 0
+Mohamed Hesham Said
+4	//Get student's grade
+Mohamed Hesham Said
+5	//Get all
+6	//Close
+
+---------------------------
+PROJECT CASES:-
+
+1
+6
+Mohamed Hesham Said
+1423
+Ahmed Essam Ahmed
+1423
+Wada Hesham Hosny
+1356
+Ibrahim Emad Ashraf
+1430
+Mina Adel John
+1154
+Omar Ahmed Kamel
+1500
+5
+1
+1
+Mohamed Samy Mahmoud
+819
+2
+Omar Ahmed Kamel
+2
+1423
+2
+Wada Hesham Hosny
+1
+Nada Hesham Hosny
+5
+3
+Mohamed Hesham Said
+4
+Mohamed Hesham Said
+5
+6
+
+===========================
+INVALID INPUT DETAILS:-
+
+5	//Get all : No data to show!
+1	//Add
+1	//1 student
+Omar Ahmed Kamel
+1600	//Invalid range
+-19	//1st failed try
+2000	//2nd failed try
+-8	//3rd failed try
+1	//Add
+3	//3 students
+Omar Ahmed Kamel
+1999	//Invalid range
+-10	//1st failed try
+31000	//2nd failed try
+1500	//Valid range
+Ahmed Essam Ahmed
+1423
+Nada Hesham Hosny
+1356
+1	//Add
+1	//1 student
+Omar Ahmed Kamel	//Student already assigned
+2	//Modify student
+Mohamed Samy Mahmoud	//Student is not assigned
+2	//Modify student
+Omar Ahmed Kamel
+2	//Modify grade
+3000	//Invalid range
+-7	//1st failed try
+-3	//2nd failed try
+1550	//3rd failed try
+2	//Modify student
+Omar Ahmed Kamel
+2	//Modify grade
+1423	//Valid range
+2	//Modify student
+Omar Ahmed Kamel
+1	//Modify name
+Ahmed Essam Ahmed	//Name already in the system
+3	//Reset to 0
+Mina Adel John	//Student is not assigned
+4	//Get student's grade
+Ibrahim Emad Ashraf	//Student is not assigned
+5	//Get all
+6	//Close
+
+---------------------------
+INVALID INPUT:-
+
+5
+1
+1
+Omar Ahmed Kamel
+1600
+-19
+2000
+-8
+1
+3
+Omar Ahmed Kamel
+1999
+-10
+31000
+1500
+Ahmed Essam Ahmed
+1423
+Nada Hesham Hosny
+1356
+1
+1
+Omar Ahmed Kamel
+2
+Mohamed Samy Mahmoud
+2
+Omar Ahmed Kamel
+2
+3000
+-7
+-3
+1550
+2
+Omar Ahmed Kamel
+2
+1423
+2
+Omar Ahmed Kamel
+1
+Ahmed Essam Ahmed
+3
+Mina Adel John
+4
+Ibrahim Emad Ashraf
+5
+6
