@@ -1,4 +1,4 @@
-# Student_Grading_System
+# Student Grading System
 
 Key Features:
 - Add multiple students with full names and grades, ensuring no duplicates or invalid entries.
